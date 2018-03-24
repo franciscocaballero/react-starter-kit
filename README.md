@@ -1,6 +1,6 @@
 ## Folder Structure
 
-Built to saave time. Hope this help
+Built to save time. Hope this help
 
 
 ## Available Scripts
